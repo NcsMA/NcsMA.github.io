@@ -7,7 +7,7 @@
 * [Source](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
 * Acurracy on the Model: 83%
 * Moldels on the test: Logistic Regresssion, Random Florest, KNN, Decision Tree, SVM
-* Best predict Model on the project: Random Florest
+* Best predictive Model on the project: Random Florest
 * Language: Python
 
 ## Descriptive Projects
