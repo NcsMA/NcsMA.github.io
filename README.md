@@ -21,7 +21,7 @@
   * Churn validation between the months 
 * Language: Python
 
-### Project 2 - New clients follow up
+### Project 2 - New Clients Follow Up
 #### Endpoint: Discover how many clients new clients the company had monthly and build a report on Power Bi
 * Source
 * Processing steps:
