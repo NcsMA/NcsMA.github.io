@@ -15,10 +15,10 @@
 #### Endpoint: Discover how many active clients the company has monthly
 * Source:
 * Processing steps:
-** Fixes on Historical Contracts - divide the contracts by type and dates readjustment
-** Contracts and Accounts Deduplicate
-** Creation of a monthly timeline to set "Active" or "Inative" at account granularity
-** Churn validation between the months 
+  * Fixes on Historical Contracts - divide the contracts by type and dates readjustment
+  * Contracts and Accounts Deduplicate
+  * Creation of a monthly timeline to set "Active" or "Inative" at account granularity
+  * Churn validation between the months 
 * Language: Python
 
 
