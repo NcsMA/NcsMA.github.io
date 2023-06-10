@@ -2,7 +2,7 @@
   Nicholas Marafiga Andrade
 
 ## Predictive Projects
-### [Project 1 - European Bank Churn Prediction](https://github.com/NcsMA/ncsma_european_bank_churn)
+### [Project 1 - European Bank Churn Prediction]([https://github.com/NcsMA/ncsma_european_bank_churn](https://www.kaggle.com/meuscoco/bank-churn-testing-5-different-models)
 #### Endpoint: Would a client churn or not?
 * [Source](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
 * Acurracy on the Model: 83%
