@@ -2,7 +2,7 @@
   Nicholas Marafiga Andrade
 
 ## Predictive Projects
-### [Project 1 - European Bank Churn Prediction]([https://github.com/NcsMA/ncsma_european_bank_churn](https://www.kaggle.com/meuscoco/bank-churn-testing-5-different-models)
+### [Project 1 - European Bank Churn Prediction](https://www.kaggle.com/meuscoco/bank-churn-testing-5-different-models)
 #### Endpoint: Would a client churn or not?
 * [Source](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
 * Acurracy on the Model: 83%
@@ -37,5 +37,17 @@
   * Create ranges and the percentage of accumulated value rates
   * Divide clientes by their ranges of amounts accumulated in contracts
 * Language: Python
+
+## Ongoing Projects
+### Exploratory Analysis with PandasAI 
+#### EndPoint: Tests for processing and cleaning data using artificial intelligence
+* [Source](https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5ab6f)
+* Languague: Python
+
+## Ongoing Studies
+* Google Generative AI Courses
+* Big data with Apache Spark
+* Machine Learing with Python
+
 
 
