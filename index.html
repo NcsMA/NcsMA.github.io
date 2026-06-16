@@ -370,32 +370,6 @@
       color: var(--muted);
     }
 
-    .cta-band {
-      width: 100%;
-      background: #102033;
-      color: #ffffff;
-      margin-top: 24px;
-    }
-
-    .cta-inner {
-      width: min(1120px, calc(100% - 40px));
-      margin: 0 auto;
-      padding: 38px 0;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 24px;
-    }
-
-    .cta-inner h2 {
-      color: #ffffff;
-    }
-
-    .cta-inner p {
-      margin: 0;
-      color: #c9d4df;
-    }
-
     .site-footer {
       width: min(1120px, calc(100% - 40px));
       margin: 0 auto;
@@ -444,10 +418,6 @@
         display: none;
       }
 
-      .cta-inner {
-        align-items: flex-start;
-        flex-direction: column;
-      }
     }
 
     @media (max-width: 520px) {
@@ -455,7 +425,6 @@
       .hero-inner,
       section,
       .metrics,
-      .cta-inner,
       .site-footer {
         width: min(100% - 28px, 1120px);
       }
@@ -687,21 +656,9 @@
       </div>
     </section>
 
-    <div class="cta-band" id="contact">
-      <div class="cta-inner">
-        <div>
-          <h2>Open to Senior Data Engineer and AI Engineer roles.</h2>
-          <p>Remote Europe, remote EMEA and hybrid Malta opportunities are the strongest fit.</p>
-        </div>
-        <div class="actions">
-          <a class="button primary" href="https://www.linkedin.com/in/nicholasmandrade/" target="_blank" rel="noreferrer">Connect on LinkedIn</a>
-          <a class="button" href="mailto:nikolas.andrade@gmail.com">Email me</a>
-        </div>
-      </div>
-    </div>
   </main>
 
-  <footer class="site-footer">
+  <footer class="site-footer" id="contact">
     Nicholas Andrade - Senior Data Engineer and AI Engineer based in Malta.
   </footer>
 </body>
