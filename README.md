@@ -1,53 +1,25 @@
-# Data Science Portfolio
-  Nicholas Marafiga Andrade
+# Nicholas Andrade Portfolio
 
-## Predictive Projects
-### [Project 1 - European Bank Churn Prediction](https://www.kaggle.com/meuscoco/bank-churn-testing-5-different-models)
-#### Endpoint: Would a client churn or not?
-* [Source](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling)
-* Acurracy on the Model: 83%
-* Moldels on the test: Logistic Regresssion, Random Florest, KNN, Decision Tree, SVM
-* Best predictive Model on the project: Random Florest
-* Language: Python
+Portfolio website for Nicholas Andrade, a Malta-based Senior Data Engineer and AI Engineer focused on data platforms, analytics, predictive use cases and production AI systems.
 
-## Descriptive Projects
-### Project 1 - Clients Count based on Contracts Historic
-#### Endpoint: Discover how many active clients the company has monthly and build a report on Power Bi
-* Source
-* Processing steps:
-  * Fixes on Historical Contracts - divide the contracts by type and dates readjustment
-  * Contracts and Accounts Deduplicate
-  * Creation of a monthly timeline to set "Active" or "Inative" at account granularity
-  * Churn validation between the months 
-* Language: Python
+Live site: https://ncsma.github.io/
 
-### Project 2 - New Clients Follow Up
-#### Endpoint: Discover how many clients new clients the company had monthly and build a report on Power Bi
-* Source
-* Processing steps:
-  * Data Cleaning for inconsistencies
-  * Set new client based on first contract inicial data
-* Language: SQL
+## Focus Areas
 
-### Project 3 - Pareto Curve View Develpment on Power Bi (ABC Curve)
-#### Endpoint: Group customers based on the financial value invested in the company into total accumulated ranges
-* Source
-* Processing steps:
-  * Data Cleaning for inconsistencies
-  * Create ranges and the percentage of accumulated value rates
-  * Divide clientes by their ranges of amounts accumulated in contracts
-* Language: Python
+- Data warehouses, ETL/ELT pipelines, orchestration and analytical data models
+- BI and reporting layers for finance, compliance, fraud, customer support and product teams
+- Predictive analytics for churn, customer behavior, transaction patterns and lead intelligence
+- AI systems using LLMs, RAG pipelines, Qdrant, AWS Bedrock, n8n and MCP integrations
 
-## Ongoing Projects
-### Exploratory Analysis with PandasAI 
-#### EndPoint: Tests for processing and cleaning data using artificial intelligence
-* [Source](https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5ab6f)
-* Languague: Python
+## Selected Projects
 
-## Ongoing Studies
-* Google Generative AI Courses
-* Big data with Apache Spark
-* Machine Learing with Python
+- European Bank Churn Prediction: predictive modeling project using Python and multiple classification models.
+- Customer Lifecycle Reporting: data processing and Power BI reporting for active customers, new customers and churn validation.
+- Sales and Lead Intelligence: analysis of presales activity, lead conversion behavior, cohorts and lead scoring support.
+- AI-ready Data and Agent Workflows: data and automation work connecting structured data, LLMs, RAG patterns and agentic workflows.
 
+## Links
 
-
+- Portfolio: https://ncsma.github.io/
+- GitHub: https://github.com/NcsMA
+- LinkedIn: https://www.linkedin.com/in/nicholasmandrade/
